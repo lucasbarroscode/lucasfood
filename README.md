@@ -8,6 +8,8 @@ Projeto feito para separar ms de pagamento e pedidos de um sistema monolito de d
 ## Descrição do Projeto
 Projeto em desenvolvimento para estudos. O Sistema separa microsservicos de pedidos e pagamento de um monilito hipotetico.
 
+![Quebra monolito](https://github.com/lucasbarroscode/lucasfood/assets/20017563/28a06dbc-c4d8-4056-9d5b-f99997a6dd95)
+
 # :hammer: Funcionalidades do projeto
 
 - `Funcionalidade 1`: CRUD Pagamentos
@@ -18,9 +20,6 @@ Projeto em desenvolvimento para estudos. O Sistema separa microsservicos de pedi
   
    ![ms pedidos](https://github.com/lucasbarroscode/lucasfood/assets/20017563/9882baac-de51-48f3-a14a-f6c4bc8279ae)
 
-
-
-![Quebra monolito](https://github.com/lucasbarroscode/lucasfood/assets/20017563/28a06dbc-c4d8-4056-9d5b-f99997a6dd95)
 
 # ✔️ Técnicas e tecnologias utilizadas
   -  Java 17
