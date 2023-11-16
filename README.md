@@ -21,6 +21,17 @@ Projeto em desenvolvimento para estudos. O Sistema separa microsservicos de pedi
    ![ms pedidos](https://github.com/lucasbarroscode/lucasfood/assets/20017563/9882baac-de51-48f3-a14a-f6c4bc8279ae)
 
 
+# 🛠️ Abrir e rodar o projeto
+
+Após baixar o projeto, 
+ - você podera abrir com o Intelij  executar os 4 apps (server, pagamentos, pedidos, gateway) via IDE.
+  - verficar se eles subiram via eureka conforme imagem abaixo.
+
+    
+![eureka](https://github.com/lucasbarroscode/lucasfood/assets/20017563/5cf3c088-a2b6-4a6e-8981-3a3056fa4e5c)
+
+
+
 # ✔️ Técnicas e tecnologias utilizadas
   -  Java 17
   -  Maven 2.6.2
